@@ -1,0 +1,113 @@
+[
+    {
+      "_id": "1",
+      "name": "Dr. John Smith",
+      "degree": "M.D.",
+      "location": "New York, NY",
+      "gender": "Male",
+      "about": "Experienced cardiologist with a focus on heart health.",
+      "workingRating": 4.9,
+      "phoneNumber": "+1 (123) 456-7890",
+      "img": "https://i.ibb.co/mychKQN/Doctor9.jpg"
+    },
+    {
+      "_id": "2",
+      "name": "Dr. Sarah Davis",
+      "degree": "M.D.",
+      "location": "Los Angeles, CA",
+      "gender": "Female",
+      "about": "Pediatrician specializing in children's health.",
+      "workingRating": 4.8,
+      "phoneNumber": "+1 (234) 567-8901",
+      "img": "https://i.ibb.co/2WP1frB/Doctor8.jpg"
+    },
+    {
+        "_id": "3",
+        "name": "Dr. John Smith",
+        "degree": "M.D.",
+        "location": "New York, NY",
+        "gender": "Male",
+        "about": "Experienced cardiologist with a focus on heart health.",
+        "workingRating": 4.9,
+        "phoneNumber": "+1 (123) 456-7890",
+        "img": "https://i.ibb.co/58Ctd0C/Doctor10.jpg"
+      },
+      {
+        "_id": "4",
+        "name": "Dr. Sarah Davis",
+        "degree": "M.D.",
+        "location": "Los Angeles, CA",
+        "gender": "Female",
+        "about": "Pediatrician specializing in children's health.",
+        "workingRating": 4.8,
+        "phoneNumber": "+1 (234) 567-8901",
+        "img": "https://i.ibb.co/hXtQyZP/Doctor6.jpg"
+      },
+      {
+        "_id": "5",
+        "name": "Dr. John Smith",
+        "degree": "M.D.",
+        "location": "New York, NY",
+        "gender": "Male",
+        "about": "Experienced cardiologist with a focus on heart health.",
+        "workingRating": 4.9,
+        "phoneNumber": "+1 (123) 456-7890",
+        "img": "https://i.ibb.co/hXtQyZP/Doctor6.jpg"
+      },
+      {
+        "_id": "6",
+        "name": "Dr. Sarah Davis",
+        "degree": "M.D.",
+        "location": "Los Angeles, CA",
+        "gender": "Female",
+        "about": "Pediatrician specializing in children's health.",
+        "workingRating": 4.8,
+        "phoneNumber": "+1 (234) 567-8901",
+        "img": "https://i.ibb.co/DbscT6r/Doctor1.jpg"
+      },
+      {
+        "_id": "7",
+        "name": "Dr. John Smith",
+        "degree": "M.D.",
+        "location": "New York, NY",
+        "gender": "Male",
+        "about": "Experienced cardiologist with a focus on heart health.",
+        "workingRating": 4.9,
+        "phoneNumber": "+1 (123) 456-7890",
+        "img": "https://i.ibb.co/WKK15xK/doctor2.jpg"
+      },
+      {
+        "_id": "8",
+        "name": "Dr. Sarah Davis",
+        "degree": "M.D.",
+        "location": "Los Angeles, CA",
+        "gender": "Female",
+        "about": "Pediatrician specializing in children's health.",
+        "workingRating": 4.8,
+        "phoneNumber": "+1 (234) 567-8901",
+        "img": "https://i.ibb.co/9wYgLmP/doctor3.jpg"
+      },
+      {
+        "_id": "9",
+        "name": "Dr. John Smith",
+        "degree": "M.D.",
+        "location": "New York, NY",
+        "gender": "Male",
+        "about": "Experienced cardiologist with a focus on heart health.",
+        "workingRating": 4.9,
+        "phoneNumber": "+1 (123) 456-7890",
+        "img": "https://i.ibb.co/ZMsSczs/doctor4.jpg"
+      },
+      {
+        "_id": "10",
+        "name": "Dr. Sarah Davis",
+        "degree": "M.D.",
+        "location": "Los Angeles, CA",
+        "gender": "Female",
+        "about": "Pediatrician specializing in children's health.",
+        "workingRating": 4.8,
+        "phoneNumber": "+1 (234) 567-8901",
+        "img": "https://i.ibb.co/42VTbz4/Doctor5.jpg"
+      }
+    
+  ]

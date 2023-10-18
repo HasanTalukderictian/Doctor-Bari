@@ -5,6 +5,11 @@ import Doctor3 from '../../../src/assests/Doctor/Doctor (3).png';
 import Doctor4 from '../../../src/assests/Doctor/DOC.jpg';
 import Dental from '../../../src/assests/Doctor/Dental.jpg';
 import { FaClock, FaPhone, FaSearchLocation, } from 'react-icons/fa';
+import Reviews from '../Reviews/Reviews';
+import Doctors from '../Doctors/Doctors';
+import ContactUs from '../Contact/ContactUs';
+
+
 
 const Home = () => {
     return (
@@ -117,6 +122,17 @@ const Home = () => {
                         </div>
                     </div>
                 </div>
+            </section>
+
+            <section>
+                <Reviews></Reviews>
+            </section>
+            
+            <section>
+                <Doctors></Doctors>
+            </section>
+            <section>
+                <ContactUs></ContactUs>
             </section>
 
         </>
