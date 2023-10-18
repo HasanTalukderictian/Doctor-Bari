@@ -21,7 +21,7 @@ const Doctors = () => {
                 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa </p>
                 <p className='text-center my-1'>quae ab illo inve ntore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
             </div>
-           <div className='flex space-x-4 mb-4'>
+           <div className='lg:flex md:grid-cols-3 space-x-4 mb-4'>
            {
                 doctors.map(item => <div 
                        key={item._id}

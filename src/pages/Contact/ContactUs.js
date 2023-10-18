@@ -9,7 +9,7 @@ const ContactUs = () => {
     const [startDate, setStartDate] = useState(new Date());
 
     return (
-        <div className=' rounded bg-[#07332F] flex mb-6'>
+        <div className=' rounded bg-[#07332F] lg:flex md:grid mb-6'>
 
             <div className='my-6 mx-4 p-8 text-white'>
                 <h3 className='text-3xl font-semibold mt-4 mb-4 px-4'>Contact With Us</h3>

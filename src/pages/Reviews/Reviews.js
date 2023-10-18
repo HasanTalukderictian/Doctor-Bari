@@ -27,7 +27,7 @@ const Reviews = () => {
     return (
         <div>
 
-            <div className='grid my-4 justify-center items-center mb-3'>
+            <div className=' lg:grid md:grid my-4 justify-center items-center mb-3'>
                 <h2 className='text-3xl font-semibold text-center mb-3'>What Our Patients Says</h2>
                 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa</p>
                 <p className='text-center my-1'>quae ab illo inve ntore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>

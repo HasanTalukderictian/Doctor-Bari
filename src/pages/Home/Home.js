@@ -15,8 +15,8 @@ const Home = () => {
     return (
         < >
 
-            <div className='flex bg-[#07332F]'>
-                <div className='mt-20 mx-4 p-8'>
+            <div className='lg:flex md:grid bg-[#07332F] '>
+                <div className='  mt-20 mx-4 p-8'>
                     <h2 className='text-5xl font-semibol text-white mb-4'>Your Best Medical <br />
                         Help Center</h2>
                     <p className='text-white mb-4'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br />
@@ -37,8 +37,8 @@ const Home = () => {
             </div>
 
             <section>
-                <div className='mx-12 my-4 px-2'>
-                    <div className='flex'>
+                <div className='mx-12 my-6 px-2'>
+                    <div className='lg:flex  md:grid sm:grid'>
                         <div className='w-1/2'>
                             <img className='w-full h-70 rounded' src={Doctor4} alt="" />
                         </div>
@@ -51,7 +51,7 @@ const Home = () => {
                                     eaque ipsa quae ab illo inve ntore veritatis et quasi architecto
                                     <br /> beatae vitae dicta sunt explicabo.</p>
                             </div >
-                            <div className='space-x-4'>
+                            <div className='lg:flex md:grid space-x-4'>
                                 <button className="btn btn-outline bg-[#F7A582]">Cavity Protection</button>
                                 <button className="btn btn-outline btn-primary">Cosmetic Dentisty</button>
                                 <button className="btn btn-outline btn-secondary">Oral Surgery</button>
@@ -77,7 +77,7 @@ const Home = () => {
             </section>
 
             <section>
-                <div className='flex mx-14'>
+                <div className='lg:flex md: grid mx-14'>
                     <div className='grid my-4 mr-4 ml-4  '>
                         <div className='w-full flex rounded bg-[#07332F] my-8 mx-4 justify-center rounded'>
                             <div className='my-7 mr-1 ' >
